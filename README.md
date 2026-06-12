@@ -1,6 +1,5 @@
 Path Finder Remix by Svanik
 
-Journal #1: PCB Schematic, PCB Design and Coding
 <img width="1804" height="1236" alt="image" src="https://github.com/user-attachments/assets/02865837-b1ff-4e4e-ad84-99722900b2a9" />
 
 <img width="1492" height="1028" alt="image" src="https://github.com/user-attachments/assets/8d8dce72-c31c-45f6-9d61-bc03f26329c4" />
@@ -11,16 +10,10 @@ Journal #1: PCB Schematic, PCB Design and Coding
 
 <img width="2700" height="1342" alt="image" src="https://github.com/user-attachments/assets/57c53019-39aa-4ff2-bf9e-0b8e9993d827" />
 
-Overview:
-Made a PCB Schematic with 5 LED's, 5 buttons, 5 resistors, and a XIAO.
-Converted schematic into PCB routed lines and add 3D files to create a complete image.
-Wrote the code to make the LED blink 5 times when pressed.
+Description:
+Made a PCB Schematic with 5 LED's, 5 buttons, 5 resistors, and a XIAO. Then, converted schematic into PCB; routed lines and added 3D files to create a complete image. Also, wrote the code to make the LED blink 5 times when the button is pressed. My motivation to make this project was to learn PCB design and desgin my own PCB from scratch. I learned everything I know abut PCB design from this project and it was a very fun experience.
 
-Thoughts:
-PCB designing, especially drawing traces on both sides is super fun.
-
-Failures:
-Not getting the edge cuts layer and making a lot of errors according to the ERC.
-
-Final Steps:
-Get approved and buy the PCB.
+Quantity     Name       Link
+5            PCB        https://jlcpcb.com/
+10           Buttons    https://a.co/d/04GGoOeS
+1            XIAO       https://a.co/d/0cnGHSUG
