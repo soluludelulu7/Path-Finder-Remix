@@ -13,8 +13,10 @@ Path Finder Remix by Svanik
 Description:
 Made a PCB Schematic with 5 LED's, 5 buttons, 5 resistors, and a XIAO. Then, converted schematic into PCB; routed lines and added 3D files to create a complete image. Also, wrote the code to make the LED blink 5 times when the button is pressed. My motivation to make this project was to learn PCB design and desgin my own PCB from scratch. I learned everything I know abut PCB design from this project and it was a very fun experience.
 
-| Quantity | Component | Link                                               |
-| -------- | --------- | -------------------------------------------------- |
-| 5        | PCB       | [https://jlcpcb.com/](https://jlcpcb.com/)         |
-| 10       | Buttons   | [https://a.co/d/04GGoOeS](https://a.co/d/04GGoOeS) |
-| 1        | XIAO      | [https://a.co/d/0cnGHSUG](https://a.co/d/0cnGHSUG) |
+| Name      | Purpose                              | Quantity | Total Cost (USD) | Link | Distributor |
+|-----------|--------------------------------------|----------|------------------|------|-------------|
+| Resistors | to restrict flow of current (not buying) | 1 | $5.99 | https://www.amazon.com/Resistor-Resistors-Assortment-Breadboard-Electronics/dp/B0F4P352BB | Amazon |
+| LED       | to display (not buying)             | 1 | $7.99 | https://www.microcenter.com/product/427703/5mm_Round_Multi-Colored_LED_Assortment_Set_-_25_Pack | Microcenter |
+| PCB       | to solder on                        | 5 | $4.90 | https://jlcpcb.com/ | JLCPCB |
+| Buttons   | to click                            | 10 | $4.99 | https://www.amazon.com/BlingKingdom-Replacement-Mechanical-Keyboard-Dustproof/dp/B0DSHTPSL3 | Amazon |
+| XIAO      | to control                          | 1 | $9.99 | https://www.amazon.com/Microcontroller-Dual-Core-MicroPython-CircuitPython-Interfaces/dp/B09NNVNW7M | Amazon |
