@@ -2,11 +2,9 @@ Path Finder Remix by Svanik
 
 <img width="1804" height="1236" alt="image" src="https://github.com/user-attachments/assets/02865837-b1ff-4e4e-ad84-99722900b2a9" />
 
-<img width="1492" height="1028" alt="image" src="https://github.com/user-attachments/assets/8d8dce72-c31c-45f6-9d61-bc03f26329c4" />
+<img width="732" height="802" alt="image" src="https://github.com/user-attachments/assets/d255e6c7-66c5-4b16-9766-9c79e5e13ff4" />
 
-<img width="2140" height="1216" alt="image" src="https://github.com/user-attachments/assets/48f02a0d-12ce-490e-99a4-63f0c68f7b4b" />
-
-<img width="2134" height="1218" alt="image" src="https://github.com/user-attachments/assets/8147c6ba-f26b-4635-89cb-230ecca046ab" />
+<img width="1182" height="1206" alt="image" src="https://github.com/user-attachments/assets/0ffc2642-4bee-4581-a4ea-708c87f4e20b" />
 
 <img width="2700" height="1342" alt="image" src="https://github.com/user-attachments/assets/57c53019-39aa-4ff2-bf9e-0b8e9993d827" />
 
